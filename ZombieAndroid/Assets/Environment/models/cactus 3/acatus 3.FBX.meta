@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: db47599ef7897c141b7ceab87fcf88be
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ferocact10
+    100004: Ferocact11
+    100006: Ferocact12
+    100008: Ferocact13
+    100010: Ferocact14
+    100012: Ferocactu0
+    100014: Ferocactu1
+    100016: Ferocactu2
+    100018: Ferocactu3
+    100020: Ferocactu4
+    100022: Ferocactu5
+    100024: Ferocactu6
+    100026: Ferocactu7
+    100028: Ferocactu8
+    100030: Ferocactu9
+    100032: Ferocactus
+    400000: //RootNode
+    400002: Ferocact10
+    400004: Ferocact11
+    400006: Ferocact12
+    400008: Ferocact13
+    400010: Ferocact14
+    400012: Ferocactu0
+    400014: Ferocactu1
+    400016: Ferocactu2
+    400018: Ferocactu3
+    400020: Ferocactu4
+    400022: Ferocactu5
+    400024: Ferocactu6
+    400026: Ferocactu7
+    400028: Ferocactu8
+    400030: Ferocactu9
+    400032: Ferocactus
+    2100000: Ferocactus Latia
+    2100002: Ferocactus La1
+    2100004: Ferocactus La2
+    2100006: Ferocactus La3
+    2100008: Ferocactus La4
+    2100010: Ferocactus La5
+    2100012: Ferocactus La6
+    2100014: Ferocactus La7
+    2100016: Ferocactus La8
+    2100018: Ferocactus La9
+    2100020: Ferocactus La10
+    2100022: Ferocactus La11
+    2100024: Ferocactus La12
+    2100026: Ferocactus La13
+    2100028: Ferocactus La14
+    2100030: Ferocactus La15
+    2300000: Ferocact10
+    2300002: Ferocact11
+    2300004: Ferocact12
+    2300006: Ferocact13
+    2300008: Ferocact14
+    2300010: Ferocactu0
+    2300012: Ferocactu1
+    2300014: Ferocactu2
+    2300016: Ferocactu3
+    2300018: Ferocactu4
+    2300020: Ferocactu5
+    2300022: Ferocactu6
+    2300024: Ferocactu7
+    2300026: Ferocactu8
+    2300028: Ferocactu9
+    2300030: Ferocactus
+    2300032: //RootNode
+    3300000: Ferocact10
+    3300002: Ferocact11
+    3300004: Ferocact12
+    3300006: Ferocact13
+    3300008: Ferocact14
+    3300010: Ferocactu0
+    3300012: Ferocactu1
+    3300014: Ferocactu2
+    3300016: Ferocactu3
+    3300018: Ferocactu4
+    3300020: Ferocactu5
+    3300022: Ferocactu6
+    3300024: Ferocactu7
+    3300026: Ferocactu8
+    3300028: Ferocactu9
+    3300030: Ferocactus
+    3300032: //RootNode
+    4300000: Ferocactus
+    4300002: Ferocactu0
+    4300004: Ferocactu1
+    4300006: Ferocactu2
+    4300008: Ferocactu3
+    4300010: Ferocactu4
+    4300012: Ferocactu5
+    4300014: Ferocactu6
+    4300016: Ferocactu7
+    4300018: Ferocactu8
+    4300020: Ferocactu9
+    4300022: Ferocact10
+    4300024: Ferocact11
+    4300026: Ferocact12
+    4300028: Ferocact13
+    4300030: Ferocact14
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferocactus La5
+    second: {fileID: 2100000, guid: b02eb541be9b41e4dafba4a21e722ef0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferocactus La8
+    second: {fileID: 2100000, guid: 8540b74e8bb53274b88a8bc3ccd62f78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ferocactus Latia
+    second: {fileID: 2100000, guid: 187a6733fa6d1c444ace40ed12dd714b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
